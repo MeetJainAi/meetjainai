@@ -143,12 +143,17 @@ class InnovationArchitect:
 ║ "The best way to predict the future is to create it." - Peter F. ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meetjainai/meetjainai/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meetjainai/meetjainai/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meetjainai/meetjainai/output/github-contribution-grid-snake.svg">
 </picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" alt="footer"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=A%20Journey%20of%20Endless%20Possibilities&fontSize=20&fontColor=ffffff" width="100%" alt="footer"/>
 </div>
+</div>
+
+
+
+
+
