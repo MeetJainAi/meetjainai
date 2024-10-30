@@ -61,48 +61,39 @@ class InnovationArchitect:
 # Status: Currently building something awesome...
 ```
 
-<table align="center">
-<tr>
-<td>
-<h3>🎯 Impact Numbers</h3>
-
-- 🤖 **15+ ML Models** in Production
-- ☁️ **3 Cloud Platforms** Mastered
-- 📊 **1M+** Data Points Processed
-- 🚀 **99.9%** System Uptime
-</td>
-<td>
-<h3>💡 Innovation Areas</h3>
-
-- 🧠 Large Language Models
-- 🔄 MLOps Automation
-- 🌐 Multi-Cloud Architecture
-- 🛡️ AI Security & Governance
-</td>
-</tr>
-</table>
-
-<h2>🏆 Professional Arsenal</h2>
-
+<h2>🔮 Alchemist's Toolkit</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meetjainai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2F81F7&icon_color=2F81F7&text_color=ffffff" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meetjainai&theme=dark&hide_border=true&background=0d1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" width="49%" alt="Streak"/>
+  <table>
+    <tr>
+      <td>
+        <h3>🎯 Proven Expertise</h3>
+        <ul>
+          <li>✨ Deployed 10+ ML models in production environments</li>
+          <li>☁️ Proficient in 2 major cloud platforms (AWS, GCP)</li>
+          <li>📊 Processed and analyzed 500k+ data points</li>
+          <li>🚀 Maintained 99.5% uptime for critical applications</li>
+        </ul>
+      </td>
+      <td>
+        <h3>💡 Areas of Innovation</h3>
+        <ul>
+          <li>🧠 Developing large language models for conversational AI</li>
+          <li>🔄 Automating MLOps pipelines for efficient model deployment</li>
+          <li>🌐 Architecting multi-cloud solutions for high availability</li>
+          <li>🛡️ Implementing AI governance and security frameworks</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
-
+<h2>🌐 Certifications & Expertise</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meetjainai&custom_title=Meet's%20Contribution%20Graph&bg_color=0d1117&color=2F81F7&line=2F81F7&point=2F81F7&area_color=2F81F7&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
+  <a href="https://www.credly.com/badges/fa28db1e-b8d3-485c-b22c-7c75840fd435/public_url"><img src="https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML Engineer Associate"/></a>
+  <a href="https://www.credly.com/badges/431aa5ed-a495-41da-b341-22a956d652d3"><img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate"/></a>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=29B1ED0F18B3B1ED4CE2AEDC073609D9ABF708CAE1469805009822C123A4FBB0"><img src="https://img.shields.io/badge/Oracle-Generative_AI_Certified_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Generative AI"/></a>
+  <a href="https://www.credly.com/badges/be497759-e794-4ed1-b6a1-1f0b80a77d98/public_url"><img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect"/></a>
 </div>
-
-<h2>🎓 Certifications & Expertise</h2>
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/AWS-Machine_Learning_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS ML"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Oracle-Generative_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle GenAI"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Terraform-Infrastructure_Expert-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
-</div>
-
-<h2>🛠️ Tech Arsenal</h2>
-
+<h2>🛠️ Alchemist's Workbench</h2>
 <div align="center">
   <table>
     <tr>
@@ -113,29 +104,23 @@ class InnovationArchitect:
     </tr>
   </table>
 </div>
-
-<h2>🔥 Featured Projects</h2>
-
+<h2>🔥 Forged in the Crucible</h2>
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meetjainai&repo=llm-rag-framework&theme=dark&bg_color=0d1117&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meetjainai&repo=llm-rag-framework&theme=material-palenight&bg_color=0d1117&hide_border=true" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meetjainai&repo=mlops-platform&theme=dark&bg_color=0d1117&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meetjainai&repo=mlops-platform&theme=material-palenight&bg_color=0d1117&hide_border=true" />
   </a>
 </div>
-
-<h2>🤝 Let's Connect & Collaborate</h2>
-
+<h2>🔮 Alchemist's Connections</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/meetjain/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://twitter.com/meetjainai"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
   <a href="https://medium.com/@meetjain.ai"><img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium" alt="Medium"/></a>
   <a href="https://t.me/Meetjainai"><img src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
 </div>
-
 <br>
-
 <div align="center">
   
 ```ascii
