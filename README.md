@@ -15,6 +15,8 @@
 
 
 
+
+
 ![Typing Animation 1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=66a6ff&center=true&vCenter=true&random=false&width=500&lines=Hey+There!+%F0%9F%91%8B;I'm+Meet+Shah)
 
 ![Typing Animation 2](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=fad0c4&center=true&vCenter=true&random=false&width=500&lines=AI+%7C+Cloud+%7C+DevOps;Let's+Build+The+Future!)
@@ -31,6 +33,10 @@
 </table>
 
 <br>
+
+
+
+
 
 ```mermaid
 mindmap
@@ -84,7 +90,7 @@ class InnovationArchitect:
         <h3>🎯 Proven Expertise</h3>
         <ul>
           <li>✨ Deployed 10+ ML models in production environments</li>
-          <li>☁️ Proficient in 2 major cloud platforms (AWS, GCP)</li>
+          <li>☁️Proficient in major cloud platforms, with a primary focus on AWS (certified), along with experience in Azure and GCP.</li>
           <li>📊 Processed and analyzed 500k+ data points</li>
           <li>🚀 Maintained 99.5% uptime for critical applications</li>
         </ul>
