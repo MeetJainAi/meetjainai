@@ -8,6 +8,13 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
+<div align="center">
+  <img src="https://img.shields.io/github/stars/meetjainai?color=brightgreen&label=Total%20Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/meetjainai?color=blue&label=Followers&style=for-the-badge" />
+</div>
+
+
+
 ![Typing Animation 1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=66a6ff&center=true&vCenter=true&random=false&width=500&lines=Hey+There!+%F0%9F%91%8B;I'm+Meet+Shah)
 
 ![Typing Animation 2](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=fad0c4&center=true&vCenter=true&random=false&width=500&lines=AI+%7C+Cloud+%7C+DevOps;Let's+Build+The+Future!)
@@ -107,13 +114,42 @@ class InnovationArchitect:
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,opencv,numpy,pandas,sklearn&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=bash&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=cassandra&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" /></td>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,oracle,docker,kubernetes,terraform,ansible,jenkins,github,linux&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=aws&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=azure&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=terraform&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ansible&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nginx&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=gitlab&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=redis&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></td>
     </tr>
   </table>
 </div>
+
+
+
+
+
 
 <h2>🔥 Essential Skills</h2>
 <div align="center">
@@ -162,12 +198,16 @@ class InnovationArchitect:
 </div>
 
 <h2>🔥 Forged in the Crucible</h2>
+
+
+
 <div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meetjainai&repo=llm-rag-framework&theme=material-palenight&bg_color=0d1117&hide_border=true" />
+  <a href="https://github.com/meetjainai/llm-rag-framework">
+    <img src="https://github-readme-stats.vercel.app/api?username=meetjainai&show_icons=true&theme=material-palenight&bg_color=0d1117&hide_border=true&count_private=true" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=meetjainai&repo=mlops-platform&theme=material-palenight&bg_color=0d1117&hide_border=true" />
+  <br/><br/>
+  <a href="https://github.com/meetjainai/mlops-platform">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meetjainai&theme=material-palenight&background=0d1117&hide_border=true" />
   </a>
 </div>
 
